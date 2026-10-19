@@ -14,7 +14,7 @@ step.
 ## Install
 
 ```
-/plugin marketplace add DadaDevelopment/dada-cloud-console
+/plugin marketplace add DadaDevelopment/dada-cloud
 /plugin install dada-cloud@dada-cloud
 ```
 
